@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Sedgwick+Ave+Display&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #0EEA00;
+}
+.titulo-destaque {
+    color: rgb(255, 0, 0);
+    border: 1px solid red;
+    
+}
+
+.apresentacao {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.apresentacao__conteudo{
+    width: 615px;
+    height: 482px;
+}
+.apresentacao__conteudo__titulo{
+    font-size: 36px;
+    font-family:'Sedgwick Ave Display', cursive;
+
+}
+
+.guardanapo__de__rabo {
+    width: 50%;
+}
+
+.apresentacao__conteudo__texto {
+    font-size: 24px;
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+.apresentacao__links {
+    
+}
+
